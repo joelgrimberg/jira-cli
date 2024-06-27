@@ -1,0 +1,37 @@
+{
+  "issues": [
+    {
+      "key": "JIRA-123",
+      "fields": {
+        "summary": "Implement new feature",
+        "status": {
+          "statusCategory": {
+            "name": "In Progress"
+          }
+        }
+      }
+    },
+    {
+      "key": "JIRA-456",
+      "fields": {
+        "summary": "Fix bug in production",
+        "status": {
+          "statusCategory": {
+            "name": "To Do"
+          }
+        }
+      }
+    },
+    {
+      "key": "JIRA-789",
+      "fields": {
+        "summary": "Update documentation",
+        "status": {
+          "statusCategory": {
+            "name": "Done"
+          }
+        }
+      }
+    }
+  ]
+}

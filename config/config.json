@@ -1,0 +1,6 @@
+{
+  "JIRA_URL": "https://jira.atlassian.com",
+  "JIRAA_USERNAME": "jirauser",
+  "JIRA_TOKEN": "jirapassword",
+  "RUN_MODE": "TEST"
+}
